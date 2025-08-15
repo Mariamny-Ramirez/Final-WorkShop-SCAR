@@ -12,7 +12,7 @@ This workshop contains a C++ implementation of matrix multiplication using **Ope
 
 ---
 
-## 💡 Descripción del Proyecto
+## 💡 Project Description
 
 The program performs the multiplication of two randomly generated square matrices using **parallel computing with OpenMP** to improve performance. The operation runs for **50 iterations**, and the **average execution time** is printed upon completion.
 
