@@ -8,7 +8,7 @@ This workshop contains a C++ implementation of matrix multiplication using **Ope
 
 * **Student:** Mariamny del Valle Ramírez Telles
 * **Career:** Systems Engineering
-* **Semester:** 4˚ semestre
+* **Semester:** 4˚ semester
 
 ---
 
